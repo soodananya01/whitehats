@@ -1,6 +1,5 @@
 # whitehats
 **Name:** Ananya Sood
-**Reg No:** 26BCE2497
 
 ## Why I want to join WhiteHats
 
